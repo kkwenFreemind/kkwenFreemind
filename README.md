@@ -8,7 +8,7 @@
 
 ##  Skills & Expertise
 
-- 🤖 **智能自然語言查詢平台（AI Interface Backend）**：  
+- 🤖 **智能自然語言查詢平台（AI Interface System）**：  
   - 基於 Spring Boot 的智能查詢系統，整合 Google Gemini AI，自動將中文自然語言轉為 PostgreSQL 查詢語句  
   - 支援圖表類型推薦（圓餅圖、長條圖、折線圖、散佈圖、表格），並透過意圖分析與資料結構智能選擇最佳展示方式  
   - 完整企業級權限體系，包括使用者角色管理、動態選單控制、Redis 快取、SQL 安全驗證機制（僅允許 SELECT、JSQLParser 防注入）  
