@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 Featured Projects
-這裡是我部分公開的專案成果，更多請見 [Repositories](https://github.com/你的帳號?tab=repositories)：
+這裡是我部分公開的專案成果，更多請見 [Repositories](https://github.com/kkwenFreemind?tab=repositories)：
 
 - [**Enterprise SMS Platform**](https://github.com/你的帳號/專案1)  
   📡 完整企業級簡訊平台，支持高併發傳送與 API 整合。  
