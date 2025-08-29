@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Kevin]
+# 👋 Hi, I'm Kevin Chang
 
 擁有 **20+ 年電信與系統整合經驗**，專長於企業簡訊平台、金流模組、預付卡儲值與 IoT 整合應用。  
 職涯中歷練 **DBA、開發工程師、系統架構師、專案經理** 等多重角色，熟悉跨部門溝通與需求落地。  
@@ -48,7 +48,7 @@
 ---
 
 ## 📫 Get in Touch
-- 💼 LinkedIn: [你的連結](https://www.linkedin.com/in/kevin-chang-1b8088102/)  
+- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/kevin-chang-1b8088102/)  
 - 📧 Email: kkwen.freemind@gmail.com  
 
 ---
